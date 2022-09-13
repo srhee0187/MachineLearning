@@ -1,0 +1,3 @@
+[submodule "MLProjects"]
+	path = MLProjects
+	url = git@github.com:srhee0187/MLProjects.git
